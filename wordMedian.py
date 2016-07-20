@@ -102,5 +102,5 @@ def main():
 	
 	count(wc_input, wc_output)
 
-if __name__="__main__":		
+if __name__=='__main__':		
 	main()
